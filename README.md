@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+<a href="https://github.com/Myst82015">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bas950&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=02265c&title_color=ea5e00&text_color=FFFFFF&icon_color=00d200">
+</a>
 <!--
 **Myst82015/Myst82015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
