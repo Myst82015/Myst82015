@@ -7,8 +7,7 @@
  
  <p align="right">
 <a href="https://github.com/Myst82015">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myst82015&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-            title_color=ea5e00&text_color=FFFFFF&icon_color=00d200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myst82015&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
 </a>
  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Myst82015&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
