@@ -1,6 +1,6 @@
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Myst82015&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Myst82015)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Myst82015&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=false)](https://github.com/Myst82015)
 [![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Myst82015&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/Myst82015)
 
 <p align="center">
